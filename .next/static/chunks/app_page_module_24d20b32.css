@@ -1,0 +1,78 @@
+/* [project]/app/page.module.css [app-client] (css) */
+.page-module__E0kJGG__container {
+  max-width: 600px;
+  margin: 2rem auto;
+  font-family: Arial, sans-serif;
+}
+
+.page-module__E0kJGG__formSection {
+  margin-bottom: 2rem;
+}
+
+.page-module__E0kJGG__form {
+  flex-direction: column;
+  gap: 10px;
+  display: flex;
+}
+
+.page-module__E0kJGG__inputField, .page-module__E0kJGG__selectField {
+  padding: 8px;
+  font-size: 1rem;
+}
+
+.page-module__E0kJGG__saveButton {
+  color: #fff;
+  cursor: pointer;
+  background-color: #28a745;
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+  font-weight: bold;
+}
+
+.page-module__E0kJGG__movieList {
+  padding: 0;
+  list-style: none;
+}
+
+.page-module__E0kJGG__movieItem {
+  background-color: #eee;
+  border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  padding: 8px 12px;
+  display: flex;
+}
+
+.page-module__E0kJGG__stars {
+  color: gold;
+  margin: 0 10px;
+  font-size: 1.2rem;
+}
+
+.page-module__E0kJGG__deleteButton {
+  color: red;
+  cursor: pointer;
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+}
+
+.page-module__E0kJGG__buttonGroup {
+  gap: 10px;
+  margin-top: 1rem;
+  display: flex;
+}
+
+.page-module__E0kJGG__sortButton {
+  color: #fff;
+  cursor: pointer;
+  background-color: #0d6efd;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+}
+
+
+/*# sourceMappingURL=app_page_module_24d20b32.css.map*/
